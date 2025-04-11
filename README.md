@@ -6,7 +6,7 @@ This helps players visualize their tracked path and navigate previously visited 
 
 ## Showcase
 
-![VisualBacktrack Demo](link_to_your_gif_or_a_screenshot.png)
+![VisualBacktrack Demo](https://raw.githubusercontent.com/NilaierMusic/Backtrack3D/refs/heads/main/VisualBacktrack3Demo.gif)
 
 ## Features
 
