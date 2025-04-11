@@ -1,6 +1,6 @@
 # VisualBacktrack3D for R.E.P.O
 
-A BepInEx mod for the Unity game R.E.P.O that adds 3D visual representations (spheres) in the game world corresponding to the 2D backtrack points shown on the in-game map.
+A purely client-sided BepInEx mod for R.E.P.O that adds 3D visual representations (spheres) in the game world corresponding to the 2D backtrack points shown on the in-game map.
 
 This helps players visualize their tracked path and navigate previously visited areas more easily by providing landmarks directly within the game environment.
 
@@ -17,8 +17,8 @@ This helps players visualize their tracked path and navigate previously visited 
 
 ## Requirements
 
-*   R.E.P.O (The game itself)
-*   BepInEx pack for Unity games (ensure it's correctly installed for R.E.P.O)
+*   [R.E.P.O](https://store.steampowered.com/app/3241660/REPO/) (The game itself)
+*   [BepInEx pack](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/) for Unity games (ensure it's correctly installed for R.E.P.O)
 
 ## Installation
 
